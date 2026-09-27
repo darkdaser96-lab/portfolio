@@ -2,6 +2,8 @@
 
 Статический одностраничный сайт-портфолио: боты и небольшие сервисы.
 
+Живой сайт: https://portfolio-site-liard-two-66.vercel.app
+
 Контакт: [t.me/darkdaser](https://t.me/darkdaser)
 
 ## Стек
